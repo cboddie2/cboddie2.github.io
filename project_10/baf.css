@@ -1,0 +1,18 @@
+*{font-family: 'Afacad', serif; 
+    text-align: center;
+    color: #c21ac2;
+background-color: black;
+margin: 20px;
+}
+
+h1
+{font-family: 'Agbalumo', serif;
+ border-bottom: solid 2px;
+ margin: 2px;
+}
+
+summary
+{font-family: 'Agbalumo', serif; font-size: 30px;}
+
+table
+{border: solid 2px;}

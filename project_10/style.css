@@ -1,0 +1,38 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Afacad&family=Agbalumo&family=EB+Garamond&family=Merriweather:wght@300&display=swap');
+  
+  /*font-family: 'Merriweather', serif;
+  font-family: 'Afacad', serif;
+  font-family: 'EB Garamond', serif;
+   font-family: 'Agbalumo', serif;*/
+
+   *{font-family: 'Afacad', serif; 
+    text-align: center;
+    color: #c21ac2;
+background-color: black;
+margin: 20px;
+}
+   h1
+   {font-family: 'Agbalumo', serif;
+    border-bottom: solid 2px;
+    margin: 2px;
+    font-size: 45px;
+}
+
+ul
+{display: block;
+}
+
+li
+{margin-left: 5px;
+font-size: 30px;}
+
+nav ul li a:hover
+{background-color:rgb(194, 26, 194) ;
+color: black;
+font-size: 30px;}
+
+footer p{font-size: 10px;
+background-color: #c21ac2;
+color: black;padding: 15px;}
+
